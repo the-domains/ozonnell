@@ -1,0 +1,28 @@
+name: Ozonnell
+favicon: null
+layout_spectrum: 0.9800486122258008
+typography_spectrum: 0.416127722710371
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.07854673033580184
+  lightness: 0.2224062338937074
+  saturation: 0.8795508095063269
+  rhythmicContrast: 0.026510106399655342
+purpose: []
