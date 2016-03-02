@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ozonnell]]></title>
         <description><![CDATA[Ozonnell]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ozonnell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 06:44:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 07:12:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ozonnell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Remez in the gardens. ]]></title>
-            <description><![CDATA[<article><h1>Remez in the gardens. </h1><p>Remez in the gardens.</p></article>]]></description>
-            <link>undefinedremez-in-the-gardens/index.html</link>
+            <description><![CDATA[<article><h1>Remez in the gardens. </h1><p>Remez in the gardens.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c76faa6-4e9f-4f98-ba90-b9b0cd13051f.png"></article>]]></description>
+            <link>https://thegrid.ai/ozonnell/remez-in-the-gardens/index.html</link>
             <guid isPermaLink="false">89b1875c-f456-438f-82f6-9d20a9e9592e</guid>
-            <pubDate>Wed, 02 Mar 2016 06:44:19 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2016 07:11:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
