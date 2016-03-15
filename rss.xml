@@ -4,7 +4,7 @@
         <description><![CDATA[Ozonnell]]></description>
         <link>https://thegrid.ai/ozonnell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 05:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 05:31:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ozonnell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -51,9 +51,9 @@
         <item>
             <title><![CDATA[Remez in the gardens. ]]></title>
             <description><![CDATA[<article><h1>Remez in the gardens. </h1><p>Remez in the gardens.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6edc197cb2c6b6c97f3e59ca34f0266ec558d5f.png"></article>]]></description>
-            <link>https://thegrid.ai/ozonnell/remez-in-the-gardens/index.html</link>
+            <link>urn:uuid:3743547c-3bfa-475b-bcdd-35a4b2ed9cea</link>
             <guid isPermaLink="false">89b1875c-f456-438f-82f6-9d20a9e9592e</guid>
-            <pubDate>Wed, 02 Mar 2016 07:11:28 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2016 05:31:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
