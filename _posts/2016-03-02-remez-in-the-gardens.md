@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Remez in the gardens.
-datePublished: '2016-03-15T05:31:54.973Z'
-dateModified: '2016-03-15T05:31:25.421Z'
+datePublished: '2016-03-22T23:21:37.206Z'
+dateModified: '2016-03-15T05:32:04.685Z'
 author: []
 title: 'Remez in the gardens. '
 sourcePath: _posts/2016-03-02-remez-in-the-gardens.md
